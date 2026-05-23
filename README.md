@@ -6,6 +6,7 @@ This project focuses on forecasting grocery product demand using machine learnin
 The goal of the project is to help businesses improve inventory management, reduce stock shortages, and optimize supply chain operations through data-driven demand forecasting.
 
 TECHNOLOGIES USED:-Python,Pandas,NumPy,Matplotlib / Seaborn,Scikit-learn,Jupyter Notebook.
+
 KEY FEATURES:-Data Cleaning & Preprocessing,Exploratory Data Analysis,Demand Prediction Modeling,Visualization of Trends and Insights,Machine Learning-based Forecasting.
 
 APPLICATIONS:-Retail Inventory Optimization,Supply Chain Management,Sales Forecasting,Business Decision Support.
